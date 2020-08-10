@@ -1,0 +1,103 @@
+.pic{
+    padding-top: 210px;
+    text-align: center;
+  
+}
+.search{
+
+
+    border-radius: 12px;
+    height: 40px;
+    width: 90%;
+}
+.navbar3{
+    text-align: end;
+    margin: 10px;
+   
+
+}
+#icon1{
+    padding: 10px 10px 10px 20px;
+    font-size: 20px;
+}
+
+#icon2{
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+}
+#icon3 {
+    background-color: rgb(41, 146, 211);
+    
+    
+    border-color: rgb(74, 149, 196);
+    font-size: 19px;
+    font-style: initial;
+    padding:8px 20px 8px 20px;
+    color: white;
+}
+#google_icon{
+    width: 28px; 
+    height: 28px;
+    padding: 10px 20px 0px 10px;
+    position: relative;
+    bottom: -8px;
+
+}
+#icon4{
+    background-color: rgb(207, 217, 228);
+    padding: 5px 10px 5px 10px;
+    margin-right: 15px;
+    margin-top: 20px;
+}
+    
+#icon5{
+    background-color: rgb(207, 217, 228);
+    padding: 5px 10px 5px 10px;
+    margin-right: 15px;
+}
+#icon6{
+    background-color: rgb(207, 217, 228);
+    padding: 5px 10px 5px 10px;
+}
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:lightgrey;
+    text-align: center;
+    padding: 10px 10px 10px 10px ;
+    
+    
+}
+#A1{
+    padding: 5px 0px 5px 10px;
+    margin-right: 15px;
+    font-size: 20px;
+}
+#A2{
+    padding: 5px 10px 5px 10px;
+    margin-right: 15px;
+    font-size: 20px;
+
+}
+#A3{
+    padding: 5px 10px 5px 10px;
+    margin-right: 600px;
+    font-size: 20px;
+}
+#A4{
+    padding: 5px 10px 5px 10px;
+    margin-right: 15px;
+    font-size: 20px;
+}
+#A5{
+    padding: 5px 10px 5px 10px;
+    margin-right: 15px;
+    font-size: 20px;
+}
+#A6{
+    padding: 5px 10px 5px 10px;
+    margin-right: 15px;
+    font-size: 20px;
+}
